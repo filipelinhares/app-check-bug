@@ -13,9 +13,9 @@ When retrieving data from database the following error is found in the console:
 
 ## Set up:
 
-1. Fill firebase with your credentials (index:10)
+1. Fill firebase with your credentials (`index.html:10`)
 
-2. Provide a REcaptcha token to initialize app-check (index:17)
+2. Provide a REcaptcha token to initialize app-check (`index.html:17`)
 
 3. Set up Google auth in your Firebase auth console
 
